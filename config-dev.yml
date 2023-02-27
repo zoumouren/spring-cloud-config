@@ -1,1 +1,2 @@
-我是一个配置文件
+spring:
+  info: "master branch,springcloud-config/config-dev.yml version-1"
