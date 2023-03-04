@@ -1,2 +1,2 @@
-spring:
+config:
   info: "prod branch,spring-cloud-config/config-prod.yml version-1"
